@@ -1,0 +1,8 @@
+langchain
+pypdf
+rapidocr-onnxruntime
+modelscope
+transformers
+faiss-cpu
+titoken
+-i https://mirrors.aliyun.com/pypi/simple/
