@@ -1,7 +1,7 @@
 # 🦜🔗 RAG Retrieval with Langchain
 
 ## 1. Install dependencies
-First install pytorch, then run the following command to install the rest of the dependencies:
+First install pytorch, then run the following command to install the rest of the dependencies under the same environment:
 ```bash
 pip install -r requirements.txt
 ```
